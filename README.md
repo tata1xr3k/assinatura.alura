@@ -1,1 +1,1 @@
-# assinatura.alura
+# assinatura.thaemy
